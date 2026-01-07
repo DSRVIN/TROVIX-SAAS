@@ -1,0 +1,5 @@
+{
+  "name": "TROVIX Water Monitor",
+  "description": "A modern SaaS dashboard for monitoring water quality in real-time.",
+  "requestFramePermissions": []
+}
