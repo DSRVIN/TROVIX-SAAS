@@ -69,7 +69,7 @@ const SettingsView: React.FC = () => {
                             <div className="p-2 bg-blue-100 text-blue-600 rounded-lg"><Settings size={18} /></div>
                             <div>
                                 <p className="text-sm font-medium text-slate-800">Alerta de pH Alto</p>
-                                <p className="text-xs text-slate-500">Notificar si pH > 8.5</p>
+                                <p className="text-xs text-slate-500">Notificar si pH &gt; 8.5</p>
                             </div>
                         </div>
                         <div className="relative inline-block w-12 mr-2 align-middle select-none transition duration-200 ease-in">
